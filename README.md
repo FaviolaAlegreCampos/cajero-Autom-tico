@@ -1,13 +1,13 @@
-**#CAJERO AUTOMATICO**
+# CAJERO AUTOMATICO
 
 Un cajero automático es un dispositivo electrónico que nos permite  realizar diversas transacciones bancarias, como retirar efectivo, depositar dinero o consultar saldo, pago de servicios, cambio de pin, ver el extracto y otros sin la necesidad de interactuar con el personal del banco. Están disponibles las 24 horas del día, los 7 días de la semana, en ubicaciones como sucursales bancarias, centros comerciales, aeropuertos universidades y colegios.
 
 
 El proyecto "CAJERO AUTOMATICO" contiene paquetes como:
-                  1.- Logica
+          1.- Logica
 		  2.- Interfaces
 		  3.-Imagenes
-# **##**PAQUETE LOGICA****
+## PAQUETE LOGICA
 
 En el paquete de logica se tiene 4 clases:
 ## 1. CLASE IDIOMA
@@ -17,7 +17,7 @@ Cuenta con dos metodos para trabajar con archivos: "leer fila" y "guardar en arc
 
 ***- Metodo leer fila***
 este metodo lee una linea especifica del archivo de texto deseado y devuelve una cadena de caracteres. contiene 2 parametros:
-                        1. numero de fila
+            1. numero de fila
 			2. direccion
 ** *-Metodo guardar en archivo:* **
 este metodo toma una cadena de texto  y lo escribe en el archivo que el usuario lo especifque.
@@ -237,7 +237,8 @@ En la interfaz grafica se puede ver el total del deposito a realizarse.
 
 ***23. Transferencia***
 
-en esta clase tendremos metodos capaces de cumplir con lo requerido para una tranferencia.
+en esta clase tendremos metodos capaces de cumplir con lo requerido para una tranferencia
+
 
 ## PAQUETE IMAGENES
 
