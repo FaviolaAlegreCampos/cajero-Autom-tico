@@ -244,3 +244,29 @@ en esta clase tendremos metodos capaces de cumplir con lo requerido para una tra
 En este paquete se puede ver diferentes imagenes para que la interfaz grafica sea mas dinamico.
 
 #### IMAGENES DE REFERENCIA 
+
+![C1](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/ff602415-9d70-488b-915b-cc2016bf79d8)
+
+
+![C4](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/ddf5628b-b6c2-44cc-83a4-3d8edc399bdd)
+
+
+![DEPOSITO CUENTA PROPIA](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/3d3a5f02-e02d-4349-bf3f-ab6a399f23d8)
+
+
+![SERVICIOS](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/88d6912d-0af9-4fc6-b80b-39ef37a11185)
+
+
+![RETIRO](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/0912cefa-e9ee-402d-b7d4-2058449ee3a7)
+
+
+![usuario](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/7cb03d55-e31d-4063-a44b-5cdf75d83c34)
+
+
+![C5](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/8f1d9381-d825-4ae3-b97f-20087e1e3086)
+
+
+
+
+
+
