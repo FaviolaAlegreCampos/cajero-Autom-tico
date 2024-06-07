@@ -260,8 +260,6 @@ En este paquete se puede ver diferentes imagenes para que la interfaz grafica se
 ![RETIRO](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/0912cefa-e9ee-402d-b7d4-2058449ee3a7)
 
 
-![usuario](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/7cb03d55-e31d-4063-a44b-5cdf75d83c34)
-
 
 ![C5](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/8f1d9381-d825-4ae3-b97f-20087e1e3086)
 
