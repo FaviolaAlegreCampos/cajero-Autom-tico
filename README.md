@@ -269,6 +269,17 @@ En este paquete se puede ver diferentes imagenes para que la interfaz grafica se
 ![C7](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/9c28f5fe-0e0d-4218-be6a-064b06932e77)
 
 
+![C8](https://github.com/FaviolaAlegreCampos/cajero-Autom-tico/assets/164113839/f0001ec5-c75e-44c6-9403-6874722f3ac2)
+
+
+
+
+
+
+
+
+
+
 
 
 
